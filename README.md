@@ -1,3 +1,7 @@
+<img width="785" alt="Screenshot 2024-11-12 at 00 37 43" src="https://github.com/user-attachments/assets/cf3f65eb-edfc-4553-9f53-fc9ca4d242a3">
+
+
+
 ## Dog Face Emotion Recognition
 
 This project focuses on detecting and classifying emotions from dog faces using deep learning. The core of the solution is built around a Convolutional Neural Network (CNN) that has been fine-tuned with transfer learning using the InceptionV3 model to enhance recognition accuracy.
